@@ -20,3 +20,5 @@ Topic 7: Transformations and GLMs (Week 7)
 
 Topic 8: Survival Analysis (Week 8)
 
+R book: https://liverpool.primo.exlibrisgroup.com/permalink/44LIV_INST/1dg072n/alma991023621408907351
+
